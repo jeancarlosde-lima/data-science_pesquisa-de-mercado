@@ -1,4 +1,4 @@
-###Uma pesquisa de mercado foi feita para decidir qual design de uma marca infantil mais agrada crianças.###
+### Uma pesquisa de mercado foi feita para decidir qual design de uma marca infantil mais agrada crianças. ###
 ************************************************************************************************************
 *Análise de dados via python*
 ****************************
