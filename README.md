@@ -2,4 +2,4 @@
 ************************************************************************************************************
 *Análise de dados via python*
 ****************************
-O desafio está no curso: Python para Data Science - primeiros passos.
+O desafio está no curso: Python para Data Science - primeiros passos. (Alura)
